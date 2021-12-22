@@ -1,0 +1,12 @@
+<?php
+
+$name = "John";
+$surname = "Doe";
+$hobbie = "Hunting";
+$friends = null;
+
+
+
+    echo $name , $surname, $hobbie, $friends;
+
+?>
